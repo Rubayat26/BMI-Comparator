@@ -1,4 +1,4 @@
-# BMI-Comparison-
+#BMI Comparator 
 
  Write a function that takes different parameters and creates a person object. The parameters would be:
 -        Name
